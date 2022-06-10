@@ -1,5 +1,6 @@
 prose:
   rooturl: '_posts'
+  baseurl: 'https://mderrien29.github.io/raptor-strats'
   siteurl: 'https://mderrien29.github.io/raptor-strats'
   media: 'media'
   ignore:
