@@ -4,7 +4,7 @@ prose:
   media: 'media'
   ignore:
     - index.markdown
-	  - about.markdown
+    - about.markdown
     - .gitignore
     - Gemfile
     - Gemfile.lock
