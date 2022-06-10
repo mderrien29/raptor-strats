@@ -3,7 +3,11 @@ prose:
   siteurl: 'https://mderrien29.github.io/raptor-strats'
   media: 'media'
   ignore:
-    - index.md
+    - index.markdown
+	- about.markdown
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
     - _config.yml
     - /_layouts
     - /_includes
