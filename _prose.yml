@@ -4,11 +4,12 @@ prose:
   media: 'media'
   ignore:
     - index.markdown
-	- about.markdown
+	  - about.markdown
     - .gitignore
     - Gemfile
     - Gemfile.lock
     - _config.yml
+    - _prose.yml
     - /_layouts
     - /_includes
   metadata:
